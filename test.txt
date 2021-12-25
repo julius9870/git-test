@@ -10,3 +10,7 @@ hello git!!!!
 hello git!!!!
 hello git!!!!
 hello git!!!!
+hi hadoop!!!
+hi hadoop!!!
+hi hadoop!!!
+hi hadoop!!!
